@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dinanathmaurya/Documents/temp/my_payment_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/dinanathmaurya/Documents/GitHub/payment_methode/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/dinanathmaurya/.gradle/caches/transforms-3/5864526b81eabc8032173149dacccf53/transformed/jetified-play-services-auth-17.0.0/res/values-watch-v20/values.xml",

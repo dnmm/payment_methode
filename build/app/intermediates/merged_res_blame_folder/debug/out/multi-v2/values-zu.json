@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dinanathmaurya/Documents/temp/my_payment_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "/Users/dinanathmaurya/Documents/GitHub/payment_methode/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
             "map": [
                 {
                     "source": "/Users/dinanathmaurya/.gradle/caches/transforms-3/454ffbbabeccfb6d1d5e0c74afea87ff/transformed/core-1.6.0/res/values-zu/values-zu.xml",

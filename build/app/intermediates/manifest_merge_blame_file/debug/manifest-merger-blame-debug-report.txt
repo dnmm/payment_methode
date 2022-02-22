@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/dinanathmaurya/Documents/temp/my_payment_app/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/dinanathmaurya/Documents/temp/my_payment_app/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/dinanathmaurya/Documents/GitHub/payment_methode/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/dinanathmaurya/Documents/GitHub/payment_methode/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <!-- Include required permissions for Google Maps API to run. -->
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.google.android.gms:play-services-maps:17.0.0] /Users/dinanathmaurya/.gradle/caches/transforms-3/bfc59e285d25e56797232fe3bd0e0d88/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
@@ -69,15 +69,15 @@
 59            android:value="2" />
 60
 61        <activity
-61-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:20
+61-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:20
 62            android:name="com.razorpay.CheckoutActivity"
-62-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-57
+62-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-57
 63            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
 63-->[com.razorpay:checkout:1.6.15] /Users/dinanathmaurya/.gradle/caches/transforms-3/07206f7f4570b80e4114ddeabee3cb70/transformed/jetified-checkout-1.6.15/AndroidManifest.xml:20:13-83
 64            android:exported="false"
-64-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+64-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
 65            android:label="Razorpay Checkout"
-65-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-46
+65-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-46
 66            android:theme="@style/CheckoutTheme" >
 66-->[com.razorpay:checkout:1.6.15] /Users/dinanathmaurya/.gradle/caches/transforms-3/07206f7f4570b80e4114ddeabee3cb70/transformed/jetified-checkout-1.6.15/AndroidManifest.xml:21:13-49
 67            <intent-filter>
@@ -96,25 +96,25 @@
 74        </activity>
 75
 76        <receiver
-76-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-22:20
+76-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-22:20
 77            android:name="com.razorpay.RzpTokenReceiver"
-77-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-57
+77-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-57
 78            android:exported="false" >
-78-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+78-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
 79            <intent-filter>
-79-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-21:29
+79-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-21:29
 80                <action android:name="rzp.device_token.share" />
-80-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:20:17-65
-80-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:20:25-62
+80-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:20:17-65
+80-->[:razorpay_flutter] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/razorpay_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:20:25-62
 81            </intent-filter>
 82        </receiver>
 83
 84        <meta-data
-84-->[:pay_android] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/pay_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:36
+84-->[:pay_android] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/pay_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:36
 85            android:name="com.google.android.gms.wallet.api.enabled"
-85-->[:pay_android] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/pay_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-69
+85-->[:pay_android] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/pay_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-69
 86            android:value="true" />
-86-->[:pay_android] /Users/dinanathmaurya/Documents/temp/my_payment_app/build/pay_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-33
+86-->[:pay_android] /Users/dinanathmaurya/Documents/GitHub/payment_methode/build/pay_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-33
 87
 88        <uses-library
 88-->[androidx.window:window:1.0.0-beta04] /Users/dinanathmaurya/.gradle/caches/transforms-3/9d51a180255ff0af77b4fa35fb9ae92c/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40

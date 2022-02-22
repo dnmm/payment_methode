@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dinanathmaurya/Documents/temp/my_payment_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/Users/dinanathmaurya/Documents/GitHub/payment_methode/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/Users/dinanathmaurya/.gradle/caches/transforms-3/66bec9b1ddf88a8b9c01810bb9a794f0/transformed/jetified-play-services-basement-17.6.0/res/values-en-rGB/values.xml",

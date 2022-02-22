@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dinanathmaurya/Documents/temp/my_payment_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-b+es+419/values-b+es+419.xml",
+            "outputFile": "/Users/dinanathmaurya/Documents/GitHub/payment_methode/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-b+es+419/values-b+es+419.xml",
             "map": [
                 {
                     "source": "/Users/dinanathmaurya/.gradle/caches/transforms-3/2d08d22d376e40727b3203840285a59a/transformed/jetified-play-services-wallet-18.1.3/res/values-b+es+419/values.xml",

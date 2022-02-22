@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dinanathmaurya/Documents/temp/my_payment_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/dinanathmaurya/Documents/GitHub/payment_methode/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/dinanathmaurya/.gradle/caches/transforms-3/bfc59e285d25e56797232fe3bd0e0d88/transformed/jetified-play-services-maps-17.0.0/res/values/values.xml",
@@ -39,6 +39,25 @@
                         "endLines": "7,8,9,10,92,193,197,456,473,481",
                         "endColumns": "11,59,51,44,59,24,24,24,24,24",
                         "endOffsets": "339,399,451,496,5906,13271,13468,24982,26096,26489"
+                    }
+                },
+                {
+                    "source": "/Users/dinanathmaurya/Documents/GitHub/payment_methode/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,807",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "465,971"
+                    },
+                    "to": {
+                        "startLines": "133,138",
+                        "startColumns": "4,4",
+                        "startOffsets": "9457,9754",
+                        "endLines": "137,140",
+                        "endColumns": "12,12",
+                        "endOffsets": "9749,9918"
                     }
                 },
                 {
@@ -130,25 +149,6 @@
                         "endLines": "24,25,26,27,28,29,30,31,32,33,34,132,159,162,170,183,230,506,579",
                         "endColumns": "80,70,71,76,65,69,70,66,67,58,56,74,8,8,8,8,20,20,20",
                         "endOffsets": "1579,1650,1722,1799,1865,1935,2006,2073,2141,2200,2257,9452,11153,11325,11802,12714,14602,27006,28786"
-                    }
-                },
-                {
-                    "source": "/Users/dinanathmaurya/Documents/temp/my_payment_app/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,807",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "465,971"
-                    },
-                    "to": {
-                        "startLines": "133,138",
-                        "startColumns": "4,4",
-                        "startOffsets": "9457,9754",
-                        "endLines": "137,140",
-                        "endColumns": "12,12",
-                        "endOffsets": "9749,9918"
                     }
                 }
             ]
