@@ -1,0 +1,38 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.razorpay.razorpay_flutter" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="19"
+6-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="19" />
+7-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml
+8
+9    <application>
+9-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:3:5-14:19
+10        <activity
+10-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:4:9-8:20
+11            android:name="com.razorpay.CheckoutActivity"
+11-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:6:17-61
+12            android:exported="false"
+12-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:5:17-41
+13            android:label="Razorpay Checkout" >
+13-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:7:17-50
+14        </activity>
+15
+16        <receiver
+16-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:9:9-13:20
+17            android:name="com.razorpay.RzpTokenReceiver"
+17-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:9:19-63
+18            android:exported="false" >
+18-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:9:64-88
+19            <intent-filter>
+19-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:10:13-12:29
+20                <action android:name="rzp.device_token.share" />
+20-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:11:17-65
+20-->/Users/dinanathmaurya/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/razorpay_flutter-1.2.9/android/src/main/AndroidManifest.xml:11:25-62
+21            </intent-filter>
+22        </receiver>
+23    </application>
+24
+25</manifest>

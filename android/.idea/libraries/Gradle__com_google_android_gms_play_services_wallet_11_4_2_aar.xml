@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-wallet:11.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/22a21749c6f705dc161e1fd3890bf1c3/transformed/jetified-play-services-wallet-11.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/22a21749c6f705dc161e1fd3890bf1c3/transformed/jetified-play-services-wallet-11.4.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/22a21749c6f705dc161e1fd3890bf1c3/transformed/jetified-play-services-wallet-11.4.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
